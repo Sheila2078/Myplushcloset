@@ -14,7 +14,7 @@ body {
   font-family: 'French Script MT', cursive;
   font-weight: bold;
   color: #F02475;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -42,4 +42,15 @@ body {
   p {
     font-size: 18px;
   }
-}
+
+  .caption {
+  h3 {
+  font-size: 17px;
+  margin: 2px;
+  }
+  p {
+  font-size: 15px;
+  margin: 0px;
+   }
+  }
+	}
