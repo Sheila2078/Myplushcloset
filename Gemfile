@@ -12,6 +12,7 @@ gem "paperclip", "~> 3.5.4"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
 gem "devise"
+ruby '2.0.0'
 
 group :production do
 	gem 'pg'
